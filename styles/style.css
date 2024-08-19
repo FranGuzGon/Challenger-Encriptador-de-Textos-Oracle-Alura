@@ -124,7 +124,7 @@ body {
     font-size: 2rem;
     border-color: var(--color-secundario);
     color: var(--color-terciario);
-    background-image: url("/assets/Muñeco.png");
+    background-image: url("/assets/muneco.png");
     background-size: 100% 60%;
     background-position: bottom center;
     background-repeat: no-repeat;
